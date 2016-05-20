@@ -29,3 +29,6 @@
 
 ###罗诗亚（Shiya Luo）
 >罗诗亚是 Autodesk 开发者关系组的 developer advocate，负责 Autodesk 云服务第三方 API 的发布，见证了从刚开始提供一套云服务 API 到现在十几款 API 的发展。她将分享在 partner 数量增长到一定程度后，如何用有限的资源做到对开发者的支持，和 Node.js 在这方面对其他语言的优势。
+
+###李晓东（Xeodou Li）
+>Wiredcraft 全栈工程师，JavaScript中国开发者大会组织者，最近Xeodou和他的团队和一家世界500强的公司合作，为他们构建了一套支撑百万级用户的gateway，这次将分享这个项目中的一些经验。
